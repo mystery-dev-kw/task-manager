@@ -13,3 +13,6 @@ A simple todo application to organize your daily tasks.
 
 ## Setup
 Coming soon...
+## Changelog
+- v1.0.0 — Initial release
+- v1.0.1 — Removed config file (oops 🤦)
