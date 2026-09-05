@@ -1,1 +1,15 @@
-# task-manager
+# Task Manager 📝
+
+A simple todo application to organize your daily tasks.
+
+## Features
+- Add and remove tasks
+- Mark tasks as complete
+- Local storage support
+
+## Tech Stack
+- Vanilla JavaScript
+- HTML5 / CSS3
+
+## Setup
+Coming soon...
